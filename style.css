@@ -74,3 +74,113 @@
 .descrip {
     margin-bottom: 10px;
 }
+
+.pluses {
+    background: #F5F5F5;
+    margin-top: 50px;
+}
+
+.pluses_product {
+    padding-top: 25px;
+    padding-bottom: 48px;
+
+}
+
+.dignity_pluses {
+    font-size: 30px;
+    line-height: 36px;
+    color: #445161;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.items article {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+    width: 558px;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: flex-start;
+
+}
+
+.pluses_left {
+    justify-content: space-between;
+    margin-right: 10px;
+
+}
+
+
+.screenshots_all {
+    padding-top: 25px;
+    padding-bottom: 48px;
+}
+
+.screenshots_header {
+    font-size: 30px;
+    line-height: 36px;
+    color: #445161;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+
+.screenshots_item {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.screenshots_item article {
+    display: flex;
+
+    width: 575px;
+    align-items: flex-start;
+    padding-bottom: 30px;
+    flex-wrap: nowrap;
+
+    justify-content: space-between;
+
+
+}
+
+.screen_text {
+    width: 379px;
+}
+
+.screenshots_name {
+    font-size: 24px;
+    line-height: 30px;
+    color: #445161;
+    width: 340px;
+}
+
+.screen {
+
+    margin-right: 15px;
+    width: 202px;
+    height: 153px;
+
+
+
+}
+
+.screenshots_descrip {
+    font-size: 16px;
+    line-height: 24px;
+    color: #333333;
+    flex-wrap: nowrap;
+    padding-top: 14px;
+
+}
